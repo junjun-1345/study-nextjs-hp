@@ -1,5 +1,8 @@
 {
   "editor.defaultFormatter": "dsznajder.es7-react-js-snippets",
   "git.ignoreLimitWarning": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
